@@ -1,2 +1,2 @@
 # Welcome to Coding Club
- Moden Web Development Framework Assignments
+ All the geeks can join in this club.
